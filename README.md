@@ -129,7 +129,6 @@ Examples:
 
 If you use this material:
 
-- Cite this repository (if published)  
 - Cite the associated papers above  
 
 ---
