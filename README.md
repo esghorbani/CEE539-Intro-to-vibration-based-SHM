@@ -10,7 +10,7 @@ This repository serves as an introductory guide to *vibration-based Structural H
 
 Designed to break down complex structural dynamics into intuitive concepts, this guide connects the physics of vibrations to the inverse problem. You will learn how signal processing and structural dynamics combine to detect structural changes using real-world vibration data.
 
-This content was prepared for a guest lecture in the *Structural Health Monitoring course (CEE 539) at Princeton University*.
+This content was prepared for a guest lecture in the *Structural Health Monitoring Course (CEE 539) at Princeton University*.
 
 ---
 
