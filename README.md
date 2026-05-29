@@ -114,12 +114,6 @@ Examples:
 
 ---
 
-### Structural Health Monitoring
-
-- Farrar, C. R., & Worden, K. — *Structural Health Monitoring: A Machine Learning Perspective*  
-- Sohn, H., et al. — *A Review of Structural Health Monitoring Literature*  
-
----
 
 ### Papers
 
