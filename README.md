@@ -6,13 +6,11 @@
 
 ## Overview
 
-This repository contains educational materials, examples, and code for *vibration-based Structural Health Monitoring (SHM)*.
+This repository provides a simple pathway for *vibration-based Structural Health Monitoring (SHM)*.
 
-The goal is to provide a clear and intuitive understanding of how structural dynamics and signal processing can be used to *detect changes in structures using vibration data*.
+The repo explains the concept of vibrations in simple words, and link it to the inverse problem. The goal is to provide a clear and intuitive understanding of how structural dynamics and signal processing can be used to *detect changes in structures using vibration data*.
 
-This material is based on lectures from:
-
-- Vibration-based SHM course (CEE 539, Princeton University)
+This material is prepared to teach as guest lecturer for Structural Health Monitoring course (CEE 539) at Princeton University.
 
 ---
 
